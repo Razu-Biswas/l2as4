@@ -54,7 +54,7 @@ To run this project, you will need to add the following environment variables to
 ```bash
 PORT=5000
 DATABASE_URL=your-database-uri
-JWT_SECRET=your-secret
+JWT_SECRET=yoursecret
 ```
 
 ## 4. Start the server
